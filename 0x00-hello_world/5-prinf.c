@@ -3,7 +3,7 @@
 
 
 /**
- * main - m first C basic program
+ * main - m Entry point
  * Return: 0
  */
 
