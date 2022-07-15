@@ -12,7 +12,7 @@ char *_strncat(char *dest, char *src, int n)
 {
 	int i, l;
 
-    	l = 0;
+	l = 0;
 	while (dest[l] != '\0')
 		l++;
 
