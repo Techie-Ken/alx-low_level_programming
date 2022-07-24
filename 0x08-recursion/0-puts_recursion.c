@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "main.h"
 
 /**
@@ -12,7 +11,7 @@ void _puts_recursion(char *s)
 		_putchar('\n');
 		return;
 	}
-	_puthar(s[0]);
+	_putchar(s[0]);
 	s++;
-	_puts_recursion[s];
+	_puts_recursion(s);
 }
