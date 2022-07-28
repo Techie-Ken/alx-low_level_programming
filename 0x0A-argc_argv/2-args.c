@@ -4,7 +4,7 @@
  * main - entry point
  * @argc: number of paramethers
  * @argv: string of parameters
- * Return 0
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
